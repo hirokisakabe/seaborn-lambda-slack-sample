@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+seaborn = "==0.12.1"
+matplotlib = "==3.6.2"
+boto3 = "==1.26.14"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
